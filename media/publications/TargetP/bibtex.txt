@@ -1,0 +1,9 @@
+@article{armenteros2019detecting,
+  title={Detecting sequence signals in targeting peptides using deep learning},
+  author={Armenteros, Jose Juan Almagro and Salvatore, Marco and Emanuelsson, Olof and Winther, Ole and Von Heijne, Gunnar and Elofsson, Arne and Nielsen, Henrik},
+  journal={Life science alliance},
+  volume={2},
+  number={5},
+  year={2019},
+  publisher={Life Science Alliance}
+}
