@@ -1,0 +1,8 @@
+@article{nissen2018binning,
+  title={Binning microbial genomes using deep learning},
+  author={Nissen, Jakob Nybo and Sonderby, Casper Kaae and Armenteros, Jose Juan Almagro and Groenbech, Christopher Heje and Nielsen, Henrik Bjorn and Petersen, Thomas Nordahl and Winther, Ole and Rasmussen, Simon},
+  journal={BioRxiv},
+  pages={490078},
+  year={2018},
+  publisher={Cold Spring Harbor Laboratory}
+}
